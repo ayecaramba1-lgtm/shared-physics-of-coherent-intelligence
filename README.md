@@ -43,6 +43,9 @@ arXiv preprint coming soon.
 
 **Nectar & Quill · R&D Archive · March 2026**
 
----
+---[THE SHARED PHYSICS OF COHERENT INTELLIGENCE_Acdemic_Chapbook_v1 (2).pdf](https://github.com/user-attachments/files/26039136/THE.SHARED.PHYSICS.OF.COHERENT.INTELLIGENCE_Acdemic_Chapbook_v1.2.pdf)
+
 
 **Nectar & Quill · R&D Archive · March 2026**
+[THE SHARED PHYSICS OF COHERENT INTELLIGENCE_Acdemic_Chapbook_v1 (2).pdf](https://github.com/user-attachments/files/26039139/THE.SHARED.PHYSICS.OF.COHERENT.INTELLIGENCE_Acdemic_Chapbook_v1.2.pdf)[THE SHARED PHYSICS OF COHERENT INTELLIGENCE_Acdemic_Chapbook_v1 (1).docx](https://github.com/user-attachments/files/26039140/THE.SHARED.PHYSICS.OF.COHERENT.INTELLIGENCE_Acdemic_Chapbook_v1.1.docx)
+
