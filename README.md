@@ -3,9 +3,6 @@
 **An Academic Chapbook** — Compiled by Melissa Linn Ruibal  
 Nectar & Quill · R&D Archive · March 2026
 
-**[Download Full PDF](THE_SHARED_PHYSICS_OF_COHERENT_INTELLIGENCE_Acdemic_Chapbook_v1.pdf)**  
-**[Download Editable Source (.docx)](THE_SHARED_PHYSICS_OF_COHERENT_INTELLIGENCE_Acdemic_Chapbook_v1.docx)**
-
 ## About the Author
 Melissa Linn Ruibal is an independent researcher exploring the shared underlying physics of coherent intelligence across computational, biological, and collective systems.  
 
@@ -40,12 +37,7 @@ You may share and build upon this work with proper attribution.
 
 arXiv preprint coming soon.
 ---
-
 **Nectar & Quill · R&D Archive · March 2026**
-
----[THE SHARED PHYSICS OF COHERENT INTELLIGENCE_Acdemic_Chapbook_v1 (2).pdf](https://github.com/user-attachments/files/26039136/THE.SHARED.PHYSICS.OF.COHERENT.INTELLIGENCE_Acdemic_Chapbook_v1.2.pdf)
-
-
-**Nectar & Quill · R&D Archive · March 2026**
-[THE SHARED PHYSICS OF COHERENT INTELLIGENCE_Acdemic_Chapbook_v1 (2).pdf](https://github.com/user-attachments/files/26039139/THE.SHARED.PHYSICS.OF.COHERENT.INTELLIGENCE_Acdemic_Chapbook_v1.2.pdf)[THE SHARED PHYSICS OF COHERENT INTELLIGENCE_Acdemic_Chapbook_v1 (1).docx](https://github.com/user-attachments/files/26039140/THE.SHARED.PHYSICS.OF.COHERENT.INTELLIGENCE_Acdemic_Chapbook_v1.1.docx)
+[THE SHARED PHYSICS OF COHERENT INTELLIGENCE_Acdemic_Chapbook_v1 (1).docx](https://github.com/user-attachments/files/26039170/THE.SHARED.PHYSICS.OF.COHERENT.INTELLIGENCE_Acdemic_Chapbook_v1.1.docx)
+[THE SHARED PHYSICS OF COHERENT INTELLIGENCE_Acdemic_Chapbook_v1 (2).pdf](https://github.com/user-attachments/files/26039172/THE.SHARED.PHYSICS.OF.COHERENT.INTELLIGENCE_Acdemic_Chapbook_v1.2.pdf)
 
